@@ -1,0 +1,14 @@
+.breadcrumb > li + li:before {
+	content: " ";
+    color: #C0C0C0;
+}
+.privateA
+{
+	font-size: 24px;
+	color: #8C8C8C;
+}
+.privateAfs
+{
+	font-size: 14px;
+	color: #8C8C8C;
+}
